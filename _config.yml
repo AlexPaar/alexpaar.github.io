@@ -10,7 +10,7 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  researchs:
+  research:
     output: true
     permalink: /research/:slug
 
