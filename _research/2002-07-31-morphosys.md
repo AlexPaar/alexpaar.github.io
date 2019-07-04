@@ -26,4 +26,4 @@ I developed a novel [branch predication](http://en.wikipedia.org/wiki/Branch_pre
 	<img src="/images/research/morphosys/slides/slide13.png">
 </div>
 
-This work was supported by the [Defense Advanced Research Projects Agency (DARPA)](http://en.wikipedia.org/wiki/Darpa) ([DoD](http://en.wikipedia.org/wiki/United_States_Department_of_Defense)) under contract F-33615-97-C-1126 and the [National Science Foundation](http://en.wikipedia.org/wiki/National_Science_Foundation) under grant CCR-0083080.
+This work was supported by the [Defense Advanced Research Projects Agency (DARPA)](http://en.wikipedia.org/wiki/Darpa) ([DoD](http://en.wikipedia.org/wiki/United_States_Department_of_Defense)) under contract F-33615-97-C-1126 and by the [National Science Foundation](http://en.wikipedia.org/wiki/National_Science_Foundation) under grant CCR-0083080.
