@@ -2,7 +2,7 @@
 title: 'MorphoSys'
 subtitle: 'SIMD Predication'
 date: 2002-07-31 00:00:00
-description: A novel branch predication scheme for the MorphoSys reconfigurable cell array.
+description: A novel branch predication scheme for the MorphoSys Reconfigurable Cell Array.
 featured_image: '/images/research/morphosys/morphosys.png'
 ---
 
