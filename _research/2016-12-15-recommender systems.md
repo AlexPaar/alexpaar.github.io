@@ -3,7 +3,7 @@ title: 'Recommender Systems'
 subtitle: 'Recommendations for... You!'
 date: 2016-12-15 00:00:00
 description: Efficient and effective recommender systems for industrial use cases.
-featured_image: '/images/research/recommender systems/hubot.jpg'
+featured_image: '/images/research/recommender_systems/hubot.jpg'
 ---
 
 Software development, engineering or medicine – the fourth industrial revolution requires new methods of assistance in a wide range of industries. In many areas, the industrial working world is characterized by the highest demands on process efficiency and process security. Fundamental influencing factors such as demographic change, offshoring and additional applications in Industry 4.0 or with Big Data demand new forms of support for knowledge workers.
