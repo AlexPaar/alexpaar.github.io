@@ -10,4 +10,20 @@ featured_image: '/images/research/morphosys/morphosys.png'
 
 I developed a novel [branch predication](http://en.wikipedia.org/wiki/Branch_predication) scheme for the MorphoSys Reconfigurable Cell Array by improving and combining the unrestricted predication model and the guarded execution model. It could be shown that significant execution autonomy was added to the SIMD processing elements and that the code size was reduced considerably. The implemented predication scheme enables more efficient if-conversion compilations than previous predication schemes of general purpose processors.
 
+<div class="gallery" data-columns="1">
+	<img src="/images/research/morphosys/slides/slide1.png">
+	<img src="/images/research/morphosys/slides/slide2.png">
+	<img src="/images/research/morphosys/slides/slide3.png">
+	<img src="/images/research/morphosys/slides/slide4.png">
+	<img src="/images/research/morphosys/slides/slide5.png">
+	<img src="/images/research/morphosys/slides/slide6.png">
+	<img src="/images/research/morphosys/slides/slide7.png">
+	<img src="/images/research/morphosys/slides/slide8.png">
+	<img src="/images/research/morphosys/slides/slide9.png">
+	<img src="/images/research/morphosys/slides/slide10.png">
+	<img src="/images/research/morphosys/slides/slide11.png">
+	<img src="/images/research/morphosys/slides/slide12.png">
+	<img src="/images/research/morphosys/slides/slide13.png">
+</div>
+
 This work was supported by the [Defense Advanced Research Projects Agency (DARPA)](http://en.wikipedia.org/wiki/Darpa) ([DoD](http://en.wikipedia.org/wiki/United_States_Department_of_Defense)) under contract F-33615-97-C-1126 and the [National Science Foundation](http://en.wikipedia.org/wiki/National_Science_Foundation) under grant CCR-0083080.
