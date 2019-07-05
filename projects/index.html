@@ -24,6 +24,8 @@ featured_image: /images/home.png
 
 	<div class="wrap">
 
+		{% for project in site.projects reversed %}
+
 		<article class="post">
 
 			<div class="post__image-wrap">
@@ -39,6 +41,8 @@ featured_image: /images/home.png
 			</div>
 
 		</article>
+
+		{% endfor %}
 
 	</div>
 
