@@ -13,6 +13,9 @@ collections:
   research:
     output: true
     permalink: /research/:slug
+  about:
+    output: true
+    permalink: /about/:slug
 
 defaults:
   -
