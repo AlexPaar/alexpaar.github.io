@@ -44,6 +44,12 @@ defaults:
       type: "research"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "about"
+    values:
+      layout: "project"
 
 markdown: kramdown
 
