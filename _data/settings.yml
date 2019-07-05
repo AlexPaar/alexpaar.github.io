@@ -8,8 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Events'
-      url: '/events/'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Research'
       url: '/research/'
     - title: 'Projects'

@@ -4,9 +4,9 @@ collections:
   pages:
     output: true
     permalink: /:name
-  events:
+  posts:
     output: true
-    permalink: /events/:slug
+    permalink: /blog/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -32,7 +32,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "events"
+      type: "posts"
     values:
       layout: "post"
   -
