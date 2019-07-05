@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Blog
-description: Personal includes a simple blog with pagination.
-featured_image: /images/demo/blog.jpg
+title: Events
+description: What I've been up to
+featured_image: /images/events/header-background.png
 ---
 
 <section class="hero hero--single">
@@ -13,8 +13,8 @@ featured_image: /images/demo/blog.jpg
 
 	<div class="wrap">
 
-		<h1>What I've been up to</h1>
-		<p>Personal includes a simple blog with pagination.</p>
+		<h1>Talks, Panel Discussions, Workshops,...</h1>
+		<p>What I've been up to</p>
 
 	</div>
 
@@ -24,7 +24,7 @@ featured_image: /images/demo/blog.jpg
 
 	<div class="wrap">
 
-		{% for post in paginator.posts %}
+		{% for post in paginator.events %}
 
 		<article class="post">
 
