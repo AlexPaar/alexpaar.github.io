@@ -27,3 +27,11 @@ I developed a novel [branch predication](http://en.wikipedia.org/wiki/Branch_pre
 </div>
 
 This work was supported by the [Defense Advanced Research Projects Agency (DARPA)](http://en.wikipedia.org/wiki/Darpa) ([DoD](http://en.wikipedia.org/wiki/United_States_Department_of_Defense)) under contract F-33615-97-C-1126 and by the [National Science Foundation](http://en.wikipedia.org/wiki/National_Science_Foundation) under grant CCR-0083080.
+
+### Publications
+
+| 2003 | 1st Workshop on Embedded Systems for Real-Time Multimedia (ESTIMedia) | *A Component Oriented Simulator for HW/SW Co-Designs* | [BibTeX]() |
+| 2002 | 8th Euro-Par | *A Novel Predication Scheme for a SIMD System-On-Chip* | [BibTeX]() |
+| 2002 | 15th Brazilian Symposium on Integrated Circuit Design (SBCCI) | *A Novel Method for Improving the Operation Autonomy of SIMD Processing Elements* | [BibTeX]() |
+| 2002 | 5th Euromicro Symposium on Digital System Design (DSD) | *Improving the Operation Autonomy of SIMD Processing Elements by Using Guarded Instructions and Pseudo Branches* | [BibTeX]() |
+| 2002 | Diplomarbeit, Universität Karlsruhe (TH) | *A Novel Predication Scheme for a SIMD System-On-Chip developed with a Component Oriented Simulator* | [BibTeX]() |
