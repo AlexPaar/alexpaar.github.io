@@ -32,7 +32,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "events"
     values:
       layout: "post"
   -
