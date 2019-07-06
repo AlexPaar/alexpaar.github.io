@@ -2,7 +2,7 @@
 title: 'InformatiCup 2014 Finals, Potsdam, Germany'
 subtitle: Collegiate Computer Science Competition
 date: 2014-03-27 00:00:00
-description: 'Opening Speech'
+description: 'Opening Speech & Laudation'
 featured_image: '/images/blog/informaticup/informaticup.jpg'
 ---
 
