@@ -1,5 +1,5 @@
 ---
-title: 'InformatiCup 2015, Stuttgart, Germany'
+title: 'InformatiCup 2015 Opening, Stuttgart, Germany'
 subtitle: Collegiate Computer Science Competition
 date: 2014-09-25 00:00:00
 description: 'Opening'
