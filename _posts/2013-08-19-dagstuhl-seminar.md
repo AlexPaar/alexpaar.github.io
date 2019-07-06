@@ -6,7 +6,7 @@ description: 'Invited Panelist'
 featured_image: '/images/blog/dagstuhl.jpg'
 ---
 
-[https://www.dagstuhl.de/13341]
+[https://www.dagstuhl.de/13341](https://www.dagstuhl.de/13341)
 
 <div class="gallery" data-columns="1">
 	<img src="/images/blog/dagstuhl-seminar-13341.jpg">
