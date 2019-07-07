@@ -6,6 +6,8 @@ description: 'Microservices – SOA, die funktioniert!'
 featured_image: '/images/blog/twt.png'
 ---
 
+**Alexander Paar, Johannes Mezger**
+
 In der Softwareentwicklung dominieren bis heute monolithische Umsetzungen. Dies führt für neue Projektmitarbeiter und interdisziplinäre Teams zu einem schweren Einstieg in die Codebasis. Fehlende Schnittstellen innerhalb einer monolithischen Software erschweren deren Bereitstellung, Betrieb und Weiterentwicklung. Unerwünschte Lock-in-Effekte können die Folge sein.
 
 Ein Microservice ist eine unabhängig auslieferbare Einheit mit einer klar umrissenen Funktionalität – ähnlich wie dies schon für die modulorientierte Softwareentwicklung gilt. Oft wird ein Microservice als kleine Webapplikation ausgelegt. Moderne Cloud-Umgebungen erleichtern dessen Bereitstellung und Betrieb zusätzlich.
