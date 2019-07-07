@@ -3,7 +3,6 @@ title: 'Internationales Stuttgarter Symposium Automobil- und Motorentechnik, Stu
 subtitle: Talk
 date: 2017-03-15 00:00:00
 description: 'Big Data for Engineers - Human-centered Perspectives'
-'
 featured_image: '/images/blog/fkfs.png'
 ---
 
