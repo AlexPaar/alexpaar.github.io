@@ -6,6 +6,8 @@ description: 'Performance in Entwicklungskooperationen - Kollaborationen stärke
 featured_image: '/images/blog/twt.png'
 ---
 
+**Alexander Paar, Andrea Winkler, Gerwin Mathwig (Daimler AG)**
+
 Die Zusammenarbeit zwischen OEMs und Entwicklungspartnern ist durch einen intensiven Austausch von Informationen wie zum Beispiel Mess- und Simulationsdaten geprägt. Aktuell erfolgt der Austausch dieser Daten auch für wiederkehrende Anwendungsfälle mit separaten Individuallösungen. Diese Individuallösungen basieren häufig weder auf standardisierten Technologien noch auf vollautomatisierten Prozessen.
 
 In letzter Zeit werden im Rahmen von Industriekonsortien Technologien für ein standardisiertes Messdatenmanagement entworfen und vorgeschlagen. Das Ziel dieser Kooperationen ist das gemeinsame Sammeln, Sichern, Verwalten und Austauschen von Messdaten.
