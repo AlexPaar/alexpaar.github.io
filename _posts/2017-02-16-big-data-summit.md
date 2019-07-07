@@ -3,7 +3,6 @@ title: 'Bitkom Big Data Summit, Hanau, Germany'
 subtitle: Talk
 date: 2017-02-16 00:00:00
 description: 'User-centered Smart Data'
-'
 featured_image: '/images/blog/bitkom.png'
 ---
 
