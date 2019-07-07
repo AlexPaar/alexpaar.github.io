@@ -29,7 +29,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/'
+  form_action: 'https://formspree.io/alexpaar@zhimantic.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
