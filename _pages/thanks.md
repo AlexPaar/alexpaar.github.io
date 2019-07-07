@@ -1,10 +1,8 @@
 ---
 title: Thank you
-subtitle: Your message was sent successfully.
-description: A sleek, modern Jekyll theme for personal websites.
-featured_image: /images/demo/contact.jpg
+subtitle: Your message was sent successfully
+description: Contact form confirmation.
+featured_image: /images/contact.jpg
 ---
 
-![](/images/demo/about.jpg)
-
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+In urgent cases, please call me on my cell phone: +49-171-2656413
