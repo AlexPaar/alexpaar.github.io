@@ -61,6 +61,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/alexpaar/'
+  xing_url: 'http://www.xing.com/profile/Alexander_Paar'
 
 color_settings:
   background_color: '#ffffff'
