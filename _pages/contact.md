@@ -7,7 +7,9 @@ featured_image: /images/contact.jpg
 
 Cell number: +49-171-2656413
 
-eMail: alexpaar@zhimantic.com
+Email: [alexpaar@zhimantic.com](mailto:alexpaar@zhimantic.com)
+
+Skype: [AlexPaar](skype:AlexPaar?call)
 
 ---
 
