@@ -2,7 +2,7 @@
 title: 'Industrielles Stipendienprogramm des FFI (Freundeskreis der Fakultät für Informatik) und der Fakultät für Informatik, Karlsruhe, Germany'
 subtitle: Outstanding Student Scholarship 
 date: 2000-07-05 00:00:00
-description: 'Received an outstanding student scholarship from the Industrielles Stipendienprogramm des FFI (Freundeskreis der Fakultät für Informatik) und der Fakultät für Informatik granted by IBM Global Services.'
+description: 'Received an outstanding student scholarship from the Industrielles Stipendienprogramm des FFI (Freundeskreis der Fakultät für Informatik) und der Fakultät für Informatik granted by IBM Global Services'
 featured_image: '/images/blog/ffi-industrie-stipendium.png'
 ---
 
