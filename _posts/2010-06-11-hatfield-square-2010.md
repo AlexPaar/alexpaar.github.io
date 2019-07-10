@@ -1,7 +1,7 @@
 ---
 title: 'Hatfield Square, Pretoria, South Africa'
 subtitle: Time Document
-date: 2009-07-21 00:00:00
+date: 2010-06-11 00:00:00
 description: '2010 FIFA World Cup'
 featured_image: '/images/blog/hatfield-square-2010.jpg'
 ---
