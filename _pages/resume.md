@@ -55,6 +55,8 @@ featured_image: /images/AlexPaar1729x1729.jpg
 
 ### Collegiate Work Experience
 
+**2010** Pretoria, South Africa. Served as [judge](/blog/sarc-2010) for the South African Regional Contest of the ACM International Collegiate Programming Contest 2010.
+
 **2002-2008** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). As a research assistant I initiated and conducted an [ACM ICPC](http://icpc.baylor.edu/) programming lab, lead graduate level seminars on software and ontology engineering topics, and assisted in teaching a graduate software engineering course.
 
 **1999-2000** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Worked as a [Microsoft Certified Systems Engineer](http://en.wikipedia.org/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Systems_Engineer_or_M.C.S.E.) at the [University Support Center](https://www.escde.net/).
