@@ -5,6 +5,17 @@ description: Alexander Paar's resume.
 featured_image: /images/AlexPaar1729x1729.jpg
 ---
 
+### Microsoft Official Curriculum
+
+**July 2001** Berlin. Completed the requirements to be recognized as a [Microsoft Certified Trainer](/images/blog/microsoft-official-curriculum/mct.jpg).
+
+**October 1999** Kassel, Hannover. Completed the requirements to be recognized as a [Microsoft Certified Systems Engineer](/images/blog/microsoft-official-curriculum/mcse.jpg).
+
+**December 1998** Kassel, Hannover. Completed the requirements to be recognized as a [Microsoft Certified Professional](/images/blog/microsoft-official-curriculum/mcp.jpg).
+
+**July 1998** Kassel, Frankfurt. Passed the qualifying exam [Networking Essentials](/images/blog/microsoft-official-curriculum/networking-essentials.jpg) and became a participant of the sponsored Microsoft Campus Program.
+
+
 ### Collegiate Work Experience
 
 **2002-2008** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). As a research assistant I initiated and conducted an [ACM ICPC](http://icpc.baylor.edu/) programming lab, lead graduate level seminars on software and ontology engineering topics, and assisted in teaching a graduate software engineering course.
@@ -13,13 +24,16 @@ featured_image: /images/AlexPaar1729x1729.jpg
 
 **1998-1999** [Technische Universität Clausthal](http://www.tu-clausthal.de/). Worked as a teaching assistant for a [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) practical programming course at the [Technische Universität Clausthal](http://www.in.tu-clausthal.de/).
 
+
 ### Internships
 
 **1999** Larnaca, Cyprus. I.A.E.S.T.E. internship at the Cyprus Petroleum Refinery Ltd. (supported the IT department in administration and development).
 
+
 ### Military Service
 
 **1996-1997** [Fallschirmpanzerabwehrbataillon](http://de.wikipedia.org/wiki/Liste_der_Fallschirmj%C3%A4gerverb%C3%A4nde_der_Bundeswehr#Fallschirmpanzerabwehrbataillone) 262 Merzig/Saar, [Luftlande- und Lufttransportschule Altenstadt](http://de.wikipedia.org/wiki/Luftlande-_und_Lufttransportschule).
+
 
 ### Memberships
 
