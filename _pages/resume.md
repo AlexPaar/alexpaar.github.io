@@ -2,7 +2,7 @@
 title: Resume
 subtitle: What happened so far
 description: Alexander Paar's resume.
-featured_image: /images/AlexPaar1729x1729.jpg
+featured_image: /images/resume.jpg
 ---
 
 ### Professional Work Experience
