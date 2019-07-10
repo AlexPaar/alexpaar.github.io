@@ -5,6 +5,33 @@ description: Alexander Paar's resume.
 featured_image: /images/AlexPaar1729x1729.jpg
 ---
 
+### Professional Work Experience
+
+**2018 - 2019** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was [business unit manager] *Digital Transformation*, member of the executive board, and personnel manager.
+
+**2016 - 2017** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Enterprise Data Solutions* and *Data Analytics & Learning*.
+
+**2015** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Data Management, Portals & Processes*.
+
+**2014** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Enterprise Software & Information Systems*.
+
+**2011 - 2013** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. As a software architect and project manager I contributed to and managed software projects in the [automotive industry](https://en.wikipedia.org/wiki/Automotive_industry), applied research, and scientific transfer.
+
+**2010-2011** [Department of Computer Science](https://cs.up.ac.za/) at the [University of Pretoria](https://www.up.ac.za/), South Africa. As a [post-doctoral](https://en.wikipedia.org/wiki/Postdoctoral_researcher) research fellow I was in the position to do research on [software](https://en.wikipedia.org/wiki/Software_engineering) and [knowledge engineering](https://en.wikipedia.org/wiki/Knowledge_engineering) topics.
+
+**2009-2010** [Plath GmbH](http://www.plath.de/), Hamburg, Germany. As a Software Architect I conducted research in the areas of [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence), [knowledge discovery in databases](https://en.wikipedia.org/wiki/Data_mining), [semantic technologies](https://en.wikipedia.org/wiki/Semantic_technology), and [domain specific languages](https://en.wikipedia.org/wiki/Domain-specific_language) for data interpretation applications in the [intelligence](https://en.wikipedia.org/wiki/Intelligence_assessment) domain.
+
+**2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/), Germany. As a research assistant I conducted and contributed to graduate level teaching in the fields of [software engineering](https://en.wikipedia.org/wiki/Software_engineering) and [algorithmics](https://en.wikipedia.org/wiki/Algorithmics).
+
+**2009** Electrical Engineering Department at [Esslingen University of Applied Sciences](https://www.hs-esslingen.de/). As an adjunct lecturer I delivered a data structures and programming course made up of 36 90-minute classes.
+
+**2004-2007** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). As a research assistant I contributed to the integrated European [CHIL](http://chil.server.de/) research project.
+
+**2001-2002** [Advanced Computer Architecture Group](http://www.eng.uci.edu/comp.arch/index.html) at the [University of California, Irvine](https://uci.edu/). As a visiting researcher I contributed to the [MorphoSys](http://www.eng.uci.edu/morphosys/) research project.
+
+**1997-2000** Bad Wildungen, Berlin. To finance my studies, I contributed to several software development projects. The developed software has been throughout in commercial use.
+
+
 ### Education
 
 **2009** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Earned a [doctorate](/blog/doctorate) (Dr.-Ing.).
