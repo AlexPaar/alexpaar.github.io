@@ -12,7 +12,7 @@ featured_image: /images/AlexPaar1729x1729.jpg
 **2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. [Walter F. Tichy](https://en.wikipedia.org/wiki/Walter_F._Tichy) I was in the position to conduct research on software and knowledge engineering topics.
 **2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. Walter F. Tichy I was in the position to conduct research on software and knowledge engineering topics.
 
-**2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Received a [Diplom Informatiker](/blog/diplom-informatiker) academic degree with a final grade very good.
+**2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Received a [Diplom Informatiker](/blog/diplom-informatiker) academic degree with a final grade *very good*.
 
 **2001-2002** [Advanced Computer Architecture Group](http://www.eng.uci.edu/comp.arch/index.html) at the [University of California, Irvine](https://uci.edu/). As a visiting researcher I designed and implemented [branch predication](https://en.wikipedia.org/wiki/Predication_(computer_architecture)) for the [MorphoSys](http://www.eng.uci.edu/morphosys/) computer architecture.
 
