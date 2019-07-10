@@ -7,11 +7,11 @@ featured_image: /images/AlexPaar1729x1729.jpg
 
 ### Awards Received
 
-**November 2008** Nuremberg, Germany. ACM International Collegiate Programming Contest (Southwestern Europe Programming Contest). Received a silver and a bronze medal for coaching teams KAmaeleon (Felix Brandt, Jonathan Dees and Christian Vetter) and Keine Ahnung (Orlin Kolev, Jochen Seidel and Simon Weinberger).
+**November 2008** Nuremberg, Germany. ACM International Collegiate Programming Contest (Southwestern Europe Programming Contest). Received [a silver and a bronze medal](/blog/swerc-2008) for coaching teams KAmaeleon (Felix Brandt, Jonathan Dees and Christian Vetter) and Keine Ahnung (Orlin Kolev, Jochen Seidel and Simon Weinberger).
 
-**November 2004** Paris, France. ACM International Collegiate Programming Contest (Southwestern Europe Programming Contest). Received the thirteenth place team award for coaching team BiK (Martin Ivanchev Paraskevov, Ivan Popov, and Bilyana Taneva).
+**November 2004** Paris, France. ACM International Collegiate Programming Contest (Southwestern Europe Programming Contest). Received the [thirteenth place team award](/blog/swerc-2004) for coaching team BiK (Martin Ivanchev Paraskevov, Ivan Popov, and Bilyana Taneva).
 
-**October 2004** Vancouver, BC, Canada. Object Oriented Programming Systems, Languages And Applications (OOPSLA 2004). Selected to be a Student Volunteer at OOPSLA 2004 on the Gold Plan.
+**October 2004** Vancouver, BC, Canada. Object Oriented Programming Systems, Languages And Applications (OOPSLA 2004). Selected to be a [Student Volunteer](/blog/oopsla-2004) at OOPSLA 2004 on the Gold Plan.
 
 **November 2003** Paris, France. ACM International Collegiate Programming Contest (Southwestern Europe Programming Contest). Received the [eighth place team award](/blog/swerc-2003) for coaching team BiK (Martin Ivanchev Paraskevov, Stefan Mirevski, and Slavyana Geninska).
 
