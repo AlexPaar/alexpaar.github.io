@@ -2,7 +2,7 @@
 title: Committees
 subtitle: Research and Recommendations
 description: Alexander Paar's committees and advisory boards.
-featured_image: /images/committees.jpg
+featured_image: /images/committees2.jpg
 ---
 
 **2017**, Workshop on Gamification Software for Education and Enterprises (FedCSIS 2017), Prague, Czech Republic.
