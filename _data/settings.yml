@@ -12,6 +12,8 @@ menu_settings:
       url: '/blog/'
     - title: 'Research'
       url: '/research/'
+    - title: 'Committees'
+      url: '/committees'
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
