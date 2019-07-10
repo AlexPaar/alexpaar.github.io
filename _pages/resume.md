@@ -7,7 +7,7 @@ featured_image: /images/AlexPaar1729x1729.jpg
 
 ### Microsoft Official Curriculum
 
-**July 2001** Berlin. Completed the requirements to be recognized as a [Microsoft Certified Trainer](/images/blog/microsoft-official-curriculum/mct.jpg).
+**July 2001** Berlin. Completed the requirements to be recognized as a [Microsoft Certified Trainer](https://alexpaar.github.io/images/blog/microsoft-official-curriculum/mct.jpg).
 
 **October 1999** Kassel, Hannover. Completed the requirements to be recognized as a [Microsoft Certified Systems Engineer](/images/blog/microsoft-official-curriculum/mcse.jpg).
 
