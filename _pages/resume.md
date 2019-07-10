@@ -5,6 +5,26 @@ description: Alexander Paar's resume.
 featured_image: /images/AlexPaar1729x1729.jpg
 ---
 
+### Education
+
+**2009** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Earned a [doctorate](/blog/doctorate) (Dr.-Ing.).
+
+**2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. [Walter F. Tichy](https://en.wikipedia.org/wiki/Walter_F._Tichy) I was in the position to conduct research on software and knowledge engineering topics.
+**2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. Walter F. Tichy I was in the position to conduct research on software and knowledge engineering topics.
+
+**2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Received a [Diplom Informatiker](/blog/diplom-informatiker) academic degree with a final grade very good.
+
+**2001-2002** [Advanced Computer Architecture Group](http://www.eng.uci.edu/comp.arch/index.html) at the [University of California, Irvine](https://uci.edu/). As a visiting researcher I designed and implemented [branch predication](https://en.wikipedia.org/wiki/Predication_(computer_architecture)) for the [MorphoSys](http://www.eng.uci.edu/morphosys/) computer architecture.
+
+**1999-2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Studies in computer science (Hauptstudium) with a main focus on technical computer science and systems engineering.
+
+**1997-1999** [Technische Universität Clausthal](https://www.tu-clausthal.de/). Studies in computer science (Grundstudium).
+
+**1987-1996** [Gustav-Stresemann-Gymnasium](https://gymnasium-badwildungen.de/) Bad Wildungen. Gymnasium, Abitur.
+
+**1983-1987** [Grundschule Helenental](https://www.helenentalschule.de/) Bad Wildungen.
+
+
 ### Awards Received
 
 **November 2008** Nuremberg, Germany. ACM International Collegiate Programming Contest (Southwestern Europe Programming Contest). Received [a silver and a bronze medal](/blog/swerc-2008) for coaching teams KAmaeleon (Felix Brandt, Jonathan Dees and Christian Vetter) and Keine Ahnung (Orlin Kolev, Jochen Seidel and Simon Weinberger).
@@ -39,7 +59,7 @@ featured_image: /images/AlexPaar1729x1729.jpg
 
 **1999-2000** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Worked as a [Microsoft Certified Systems Engineer](http://en.wikipedia.org/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Systems_Engineer_or_M.C.S.E.) at the [University Support Center](https://www.escde.net/).
 
-**1998-1999** [Technische Universität Clausthal](http://www.tu-clausthal.de/). Worked as a teaching assistant for a [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) practical programming course at the [Technische Universität Clausthal](http://www.in.tu-clausthal.de/).
+**1998-1999** [Technische Universität Clausthal](https://www.tu-clausthal.de/). Worked as a teaching assistant for a [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) practical programming course at the [Technische Universität Clausthal](http://www.in.tu-clausthal.de/).
 
 
 ### Internships
