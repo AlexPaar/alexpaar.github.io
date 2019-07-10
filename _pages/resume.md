@@ -7,7 +7,7 @@ featured_image: /images/resume.jpg
 
 ### Professional Work Experience
 
-**2018 - 2019** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was [business unit manager] *Digital Transformation*, member of the executive board, and personnel manager.
+**2018 - 2019** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was business unit manager *Digital Transformation*, member of the executive board, and personnel manager.
 
 **2016 - 2017** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Enterprise Data Solutions* and *Data Analytics & Learning*.
 
