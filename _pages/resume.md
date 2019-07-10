@@ -10,7 +10,6 @@ featured_image: /images/AlexPaar1729x1729.jpg
 **2009** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Earned a [doctorate](/blog/doctorate) (Dr.-Ing.).
 
 **2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. [Walter F. Tichy](https://en.wikipedia.org/wiki/Walter_F._Tichy) I was in the position to conduct research on software and knowledge engineering topics.
-**2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. Walter F. Tichy I was in the position to conduct research on software and knowledge engineering topics.
 
 **2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Received a [Diplom Informatiker](/blog/diplom-informatiker) academic degree with a final grade *very good*.
 
