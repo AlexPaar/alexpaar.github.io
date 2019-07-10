@@ -5,7 +5,15 @@ description: Alexander Paar's resume.
 featured_image: /images/AlexPaar1729x1729.jpg
 ---
 
-Internships
+### Collegiate Work Experience
+
+**2002-2008** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). As a research assistant I initiated and conducted an [ACM ICPC](http://icpc.baylor.edu/) programming lab, lead graduate level seminars on software and ontology engineering topics, and assisted in teaching a graduate software engineering course.
+
+**1999-2000** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Worked as a [Microsoft Certified Systems Engineer](http://en.wikipedia.org/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Systems_Engineer_or_M.C.S.E.) at the [University Support Center](https://www.escde.net/).
+
+**1998-1999** [Technische Universität Clausthal](http://www.tu-clausthal.de/). Worked as a teaching assistant for a [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) practical programming course at the [Technische Universität Clausthal](http://www.in.tu-clausthal.de/).
+
+### Internships
 
 **1999** Larnaca, Cyprus. I.A.E.S.T.E. internship at the Cyprus Petroleum Refinery Ltd. (supported the IT department in administration and development).
 
