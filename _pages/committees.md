@@ -5,6 +5,12 @@ description: Alexander Paar's committees and advisory boards.
 featured_image: /images/committees.jpg
 ---
 
+**2020**, International Computer Programming Education Conference (ICPEC 2020), Vila do Conde, Portugal.
+
+**2019**, Symposium on Languages, Applications and Technologies (SLATE 2017), Coimbra, Portugal.
+
+**2018**, Symposium on Languages, Applications and Technologies (SLATE 2017), Guimarães, Portugal.
+
 **2017**, Workshop on Gamification Software for Education and Enterprises (FedCSIS 2017), Prague, Czech Republic.
 
 **2017**, Digital Enterprise Computing 2017 (DEC 2017), Herman Hollerith Lehr- und Forschungszentrum (HHZ), Böblingen, Germany. Program Chair Cognitive Computing Track.
