@@ -5,6 +5,8 @@ description: Alexander Paar's committees and advisory boards.
 featured_image: /images/committees.jpg
 ---
 
+**2020**, International Conference on Cloud Computing and Services Science (CLOSER 2020), Prague, Czech Republic.
+
 **2020**, International Computer Programming Education Conference (ICPEC 2020), Vila do Conde, Portugal.
 
 **2019**, Symposium on Languages, Applications and Technologies (SLATE 2017), Coimbra, Portugal.
