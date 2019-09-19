@@ -1,11 +1,13 @@
 ---
 title: Resume
-subtitle: What happened so far
+subtitle: What's happened so far
 description: Alexander Paar's resume.
 featured_image: /images/resume.jpg
 ---
 
 ### Professional Work Experience
+
+**2019 - today** [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/), Kiel, Germany. I am a computer science lecturer.
 
 **2018 - 2019** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was business unit manager *Digital Transformation*, member of the executive board, and personnel manager.
 
@@ -15,7 +17,7 @@ featured_image: /images/resume.jpg
 
 **2014** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Enterprise Software & Information Systems*.
 
-**2011 - 2013** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. As a software architect and project manager I contributed to and managed software projects in the [automotive industry](https://en.wikipedia.org/wiki/Automotive_industry), applied research, and scientific transfer.
+**2011 - 2014** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. As a software architect and project manager I contributed to and managed software projects in the [automotive industry](https://en.wikipedia.org/wiki/Automotive_industry), applied research, and scientific transfer.
 
 **2010-2011** [Department of Computer Science](https://cs.up.ac.za/) at the [University of Pretoria](https://www.up.ac.za/), South Africa. As a [post-doctoral](https://en.wikipedia.org/wiki/Postdoctoral_researcher) research fellow I was in the position to do research on [software](https://en.wikipedia.org/wiki/Software_engineering) and [knowledge engineering](https://en.wikipedia.org/wiki/Knowledge_engineering) topics.
 
