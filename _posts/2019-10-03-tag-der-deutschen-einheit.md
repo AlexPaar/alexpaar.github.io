@@ -2,7 +2,7 @@
 title: 'Tag der Deutschen Einheit, Kiel, Germany'
 subtitle: Nationalfeiertag
 date: 2019-10-03 00:00:00
-description: 'Die sprachfähige Wetterstation auf dem Fest zum Tag der Deutschen Einheit'
+description: 'Die Wetterstation Edersee auf dem Fest zum Tag der Deutschen Einheit'
 featured_image: '/images/blog/tag-der-deutschen-einheit-2019/die-sprachfähige-wetterstation.jpg'
 ---
 
