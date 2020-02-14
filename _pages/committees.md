@@ -5,11 +5,13 @@ description: Alexander Paar's committees and advisory boards.
 featured_image: /images/committees.jpg
 ---
 
-**2020**, Symposium on Languages, Applications and Technologies (SLATE 2020), Barcelos, Portugal.
+**2020**, Studierendenkonferenz Informatik ([SKILL 2020](https://skill.gi.de/)), Karlsruhe, Germany.
 
-**2020**, International Conference on Cloud Computing and Services Science (CLOSER 2020), Prague, Czech Republic.
+**2020**, Symposium on Languages, Applications and Technologies ([SLATE 2020](http://slate-conf.org/)), Barcelos, Portugal.
 
-**2020**, International Computer Programming Education Conference (ICPEC 2020), Vila do Conde, Portugal.
+**2020**, International Conference on Cloud Computing and Services Science ([CLOSER 2020](http://closer.scitevents.org/)), Prague, Czech Republic.
+
+**2020**, International Computer Programming Education Conference ([ICPEC 2020](https://icpeconf.org/)), Vila do Conde, Portugal.
 
 **2019**, Symposium on Languages, Applications and Technologies (SLATE 2019), Coimbra, Portugal.
 
