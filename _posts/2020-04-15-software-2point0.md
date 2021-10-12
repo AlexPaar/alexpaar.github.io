@@ -3,7 +3,7 @@ title: "Software 2.0 - Trainieren statt Programmieren, Kiel, Germany"
 subtitle: DHSH erklärt
 date: 2020-04-15 00:00:00
 description: "Software 2.0 - Trainieren statt Programmieren"
-featured_image: "/images/blog/software20/DHSH.png"
+featured_image: "/images/blog/DHSH.png"
 ---
 
 **Software 2.0 - Trainieren statt Programmieren**
