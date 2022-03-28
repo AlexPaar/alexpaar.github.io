@@ -5,6 +5,8 @@ description: Alexander Paar's committees and advisory boards.
 featured_image: /images/committees.jpg
 ---
 
+**2022**, INForum 2022: 13º Simpósio de Informática ([INForum 2022](https://inforum.org.pt/)), Guarda, Portugal.
+
 **2022**, Symposium on Languages, Applications and Technologies ([SLATE 2022](http://slate-conf.org/)), Covilhã, Portugal.
 
 **2022**, International Computer Programming Education Conference ([ICPEC 2022](https://icpeconf.org/)), Barcelos, Portugal.
