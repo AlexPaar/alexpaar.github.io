@@ -7,15 +7,17 @@ featured_image: /images/resume.jpg
 
 ### Professional Work Experience
 
-**2019 - today** [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/), Kiel, Germany. I am a computer science lecturer.
+**2024 - today** [Berufsakademie Sachsen](https://www.ba-sachsen.de/), Kiel, Germany. I am a professor of computer science.
 
-**2018 - 2019** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was business unit manager *Digital Transformation*, member of the executive board, and personnel manager.
+**2019 - 2024** [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/), Kiel, Germany. I was a professor of computer science.
 
-**2016 - 2017** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Enterprise Data Solutions* and *Data Analytics & Learning*.
+**2018 - 2019** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was business unit manager _Digital Transformation_, member of the executive board, and personnel manager.
 
-**2015** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Data Management, Portals & Processes*.
+**2016 - 2017** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of _Enterprise Data Solutions_ and _Data Analytics & Learning_.
 
-**2014** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of *Enterprise Software & Information Systems*.
+**2015** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of _Data Management, Portals & Processes_.
+
+**2014** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. I was head of _Enterprise Software & Information Systems_.
 
 **2011 - 2014** [TWT GmbH Science & Innovation](https://www.twt-gmbh.de/), Stuttgart, Germany. As a software architect and project manager I contributed to and managed software projects in the [automotive industry](https://en.wikipedia.org/wiki/Automotive_industry), applied research, and scientific transfer.
 
@@ -33,16 +35,15 @@ featured_image: /images/resume.jpg
 
 **1997-2000** Bad Wildungen, Berlin. To finance my studies, I contributed to several software development projects. The developed software has been throughout in commercial use.
 
-
 ### Education
 
 **2009** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Earned a [doctorate](/blog/doctorate) (Dr.-Ing.).
 
 **2002-2009** [Institute for Program Structures and Data Organization (IPD)](http://wwwipd.ira.uka.de/) at Universität Karlsruhe (TH), Germany. Under the guidance of Prof. [Walter F. Tichy](https://en.wikipedia.org/wiki/Walter_F._Tichy) I was in the position to conduct research on software and knowledge engineering topics.
 
-**2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Received a [Diplom Informatiker](/blog/diplom-informatiker) academic degree with a final grade *very good*.
+**2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Received a [Diplom Informatiker](/blog/diplom-informatiker) academic degree with a final grade _very good_.
 
-**2001-2002** [Advanced Computer Architecture Group](http://www.eng.uci.edu/comp.arch/index.html) at the [University of California, Irvine](https://uci.edu/). As a visiting researcher I designed and implemented [branch predication](https://en.wikipedia.org/wiki/Predication_(computer_architecture)) for the [MorphoSys](http://www.eng.uci.edu/morphosys/) computer architecture.
+**2001-2002** [Advanced Computer Architecture Group](http://www.eng.uci.edu/comp.arch/index.html) at the [University of California, Irvine](https://uci.edu/). As a visiting researcher I designed and implemented [branch predication](<https://en.wikipedia.org/wiki/Predication_(computer_architecture)>) for the [MorphoSys](http://www.eng.uci.edu/morphosys/) computer architecture.
 
 **1999-2002** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Studies in computer science (Hauptstudium) with a main focus on technical computer science and systems engineering.
 
@@ -51,7 +52,6 @@ featured_image: /images/resume.jpg
 **1987-1996** [Gustav-Stresemann-Gymnasium](https://gymnasium-badwildungen.de/) Bad Wildungen. Gymnasium, Abitur.
 
 **1983-1987** [Grundschule Helenental](https://www.helenentalschule.de/) Bad Wildungen.
-
 
 ### Awards Received
 
@@ -69,7 +69,6 @@ featured_image: /images/resume.jpg
 
 **July 2000** Karlsruhe, Germany. Received an outstanding student scholarship from the [Industrielles Stipendienprogramm des FFI (Freundeskreis der Fakultät für Informatik) und der Fakultät für Informatik](http://www.ipd.uka.de/ffi-stipendium/) granted by [IBM Global Services](http://www.ibm.com/services/).
 
-
 ### Microsoft Official Curriculum
 
 **July 2001** Berlin. Completed the requirements to be recognized as a [Microsoft Certified Trainer](/images/blog/microsoft-official-curriculum/mct.jpg).
@@ -80,7 +79,6 @@ featured_image: /images/resume.jpg
 
 **July 1998** Kassel, Frankfurt. Passed the qualifying exam [Networking Essentials](/images/blog/microsoft-official-curriculum/networking-essentials.jpg) and became a participant of the sponsored Microsoft Campus Program.
 
-
 ### Collegiate Work Experience
 
 **2010** Pretoria, South Africa. Served as [judge](/blog/sarc-2010) for the South African Regional Contest of the ACM International Collegiate Programming Contest 2010.
@@ -89,18 +87,15 @@ featured_image: /images/resume.jpg
 
 **1999-2000** [Universität Karlsruhe (TH)](http://www.uni-karlsruhe.de/). Worked as a [Microsoft Certified Systems Engineer](http://en.wikipedia.org/wiki/Microsoft_Certified_Professional#Microsoft_Certified_Systems_Engineer_or_M.C.S.E.) at the [University Support Center](https://www.escde.net/).
 
-**1998-1999** [Technische Universität Clausthal](https://www.tu-clausthal.de/). Worked as a teaching assistant for a [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) practical programming course at the [Technische Universität Clausthal](http://www.in.tu-clausthal.de/).
-
+**1998-1999** [Technische Universität Clausthal](https://www.tu-clausthal.de/). Worked as a teaching assistant for a [Java](<http://en.wikipedia.org/wiki/Java_(programming_language)>) practical programming course at the [Technische Universität Clausthal](http://www.in.tu-clausthal.de/).
 
 ### Internships
 
 **1999** Larnaca, Cyprus. I.A.E.S.T.E. internship at the Cyprus Petroleum Refinery Ltd. (supported the IT department in administration and development).
 
-
 ### Military Service
 
 **1996-1997** [Fallschirmpanzerabwehrbataillon](http://de.wikipedia.org/wiki/Liste_der_Fallschirmj%C3%A4gerverb%C3%A4nde_der_Bundeswehr#Fallschirmpanzerabwehrbataillone) 262 Merzig/Saar, [Luftlande- und Lufttransportschule Altenstadt](http://de.wikipedia.org/wiki/Luftlande-_und_Lufttransportschule).
-
 
 ### Memberships
 
