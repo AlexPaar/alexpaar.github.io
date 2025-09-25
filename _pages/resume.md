@@ -7,7 +7,7 @@ featured_image: /images/resume.jpg
 
 ### Professional Work Experience
 
-**2024 - today** [Berufsakademie Sachsen](https://www.ba-sachsen.de/), Leipzig, Germany. I am a professor of computer science.
+**2024 - today** [Duale Hochschule Sachsen](https://www.dhsn.de/), Leipzig, Germany. I am a professor of computer science.
 
 **2019 - 2024** [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/), Kiel, Germany. I was a professor of computer science.
 
