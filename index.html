@@ -624,6 +624,30 @@
       </p>
     </div>
   </div>
+
+  <!-- Bottom-right overlay for bussibaer.png -->
+  <div id="bussibaer-overlay"
+    style="position:fixed;bottom:24px;right:24px;z-index:1000;display:none;pointer-events:none;">
+    <img src="./images/bussibaer.png" alt="Bussibaer"
+      style="width:90px;height:auto;box-shadow:0 4px 16px rgba(0,0,0,0.25);border-radius:12px;">
+  </div>
+  <script>
+    // Show overlay only when scrolled to bottom
+    function checkScrollBottom() {
+      const overlay = document.getElementById('bussibaer-overlay');
+      const scrollY = window.scrollY || window.pageYOffset;
+      const viewport = window.innerHeight || document.documentElement.clientHeight;
+      const full = document.documentElement.scrollHeight;
+      if (scrollY + viewport >= full - 2) {
+        overlay.style.display = 'block';
+      } else {
+        overlay.style.display = 'none';
+      }
+    }
+    window.addEventListener('scroll', checkScrollBottom);
+    window.addEventListener('resize', checkScrollBottom);
+    document.addEventListener('DOMContentLoaded', checkScrollBottom);
+  </script>
 </body>
 
 </html>
